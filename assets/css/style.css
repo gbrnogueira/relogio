@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu-Light.woff2') format('woff2'),
+        	url('../fonts/Ubuntu-Light.woff') format('woff');
+}
+
+:root{
+	--color-black: rgba(0, 0, 0, .7);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{ 
+  	font-family: "Ubuntu";
+
+  	width: 100vw;
+	height: 100vh;
+
+	background: linear-gradient(to left, #EF629F, #EECDA3);
+	background-attachment: fixed;
+
+	display: flex;
+	justify-content: center; 
+	align-items: center;
+
+	color: #fff;
+}
+
+p{
+	color: rgba(255, 255, 255, .8);
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+
+.clock{
+	background: rgba(0, 0, 0, .7);
+	padding: 40px;
+	-webkit-box-shadow: 10px 10px 47px -7px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 47px -7px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 47px -7px rgba(0,0,0,0.75);
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+/* -------------------- DIA -------------------- */
+
+.date_container{
+	display: flex;
+	flex-direction: column;
+	margin-right: 50px;
+	text-align: center;
+}
+
+.date_container h1{
+	font-weight: 100;
+	font-size: 50px;
+}
+
+.date_container p{
+	text-transform: uppercase;
+	font-size: 16px;
+	letter-spacing: 3px;
+}
+
+/* -------------------- HORA -------------------- */
+
+.hour_container {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.hour,
+.minutes,
+.seconds{
+	text-align: center;
+	margin: 0 45px;
+}
+
+.hour h1,
+.minutes h1,
+.seconds h1{
+	font-size: 65px;
+	font-weight: 100;
+}
+
+.first{
+	background: -webkit-linear-gradient(#473330, rgba(255, 255, 255, .4) , #473330)!important;
+	background: -o-linear-gradient(#473330, rgba(255, 255, 255, .4), #473330)!important;
+	background: linear-gradient(#473330, rgba(255, 255, 255, .4), #473330)!important;
+}
+
+.divider{
+	width: 1px;
+	height: 55px;
+	background: -webkit-linear-gradient(#472C30, rgba(255, 255, 255, .4) , #472C30);
+	background: -o-linear-gradient(#472C30, rgba(255, 255, 255, .4), #472C30);
+	background: linear-gradient(#472C30, rgba(255, 255, 255, .4), #472C30);
+}
