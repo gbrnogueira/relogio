@@ -1,3 +1,11 @@
+## 📎 Preview
+
+<div>
+    <img src="https://ik.imagekit.io/53vofovqwp/preview_lsStKEdL9.png">
+</div>
+
+---
+
 ## 🔖 Sobre
 Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado durante os meus primeiros passos com a linguagem JavaScript
 
@@ -23,5 +31,7 @@ Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado d
     # Iniciar o projeto
     $ yarn start
 ```
+---
+Desenvolvido por Gabriel Ramos em parceria com Juan Pablo.
 
 
