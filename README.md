@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre 🔖
+## 🔖  Sobre 
 Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado durante os meus primeiros passos com a linguagem JavaScript
 
 ---
