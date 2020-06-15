@@ -32,4 +32,5 @@ Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado d
     $ yarn start
 ```
 ---
+
 Desenvolvido por Gabriel Ramos
