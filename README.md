@@ -1,4 +1,4 @@
-## 📎  Preview
+## Preview 📎
 
 <div>
     <img src="https://ik.imagekit.io/53vofovqwp/preview_lsStKEdL9.png">
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔖  Sobre 
+## Sobre 🔖
 Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado durante os meus primeiros passos com a linguagem JavaScript
 
 ---
