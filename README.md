@@ -1,4 +1,4 @@
-## 📎 Preview
+## 📎  Preview
 
 <div>
     <img src="https://ik.imagekit.io/53vofovqwp/preview_lsStKEdL9.png">
@@ -6,18 +6,18 @@
 
 ---
 
-## 🔖 Sobre
+## Sobre 🔖
 Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado durante os meus primeiros passos com a linguagem JavaScript
 
 ---
-## 💻 Tecnológias Utilizadas
+## Tecnológias Utilizadas 💻
 - HTML
 - CSS3
 - JavaScript
 
 ---
 
-## 📦 Como baixar o projeto
+## Como baixar o projeto 📦
 ```bash
     # Clonar repositório
     $ git clone https://github.com/gbr-jpg/relogio.git
@@ -32,6 +32,4 @@ Um relógio digital para web, desenvolvido com fins de aprendizagem. Realizado d
     $ yarn start
 ```
 ---
-Desenvolvido por Gabriel Ramos em parceria com Juan Pablo.
-
-
+Desenvolvido por Gabriel Ramos
